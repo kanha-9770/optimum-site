@@ -25,9 +25,9 @@ export const footerData = {
     ],
     address: "E-186, Apparel Park, RIICO Industrial Area, Mahal Road, Jagatpura, Jaipur (Rajasthan) - 302022, INDIA",
     contacts: [
-      { name: "+91 9982200038", href: "/product/high-speed-paper-cup-making-machine/" },
-      { name: "+91 9549444484", href: "/product/paper-bag-making-machine/" },
-      { name: "info@nesscoindia.com", href: "/product/paper-container-bowl-making-machine/" },
+      { name: "+91 9982200038", href: "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp" },
+      { name: "+91 9549444484", href: "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp" },
+      { name: "info@nesscoindia.com", href: "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp" },
     ],
     socialIcons: [
       { src: "/assets/footer/facebook.png", alt: "Facebook" },
