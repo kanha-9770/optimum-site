@@ -4,11 +4,7 @@ export const footerData = {
     stores: ["Jaipur", "Pune", "Dubai", "Germany", "Tokyo"],
     businessPartners: "Our Business Partners",
     awards: [
-      { src: "/assets/footer/1.svg", alt: "Award 1" },
-      { src: "/assets/footer/2.svg", alt: "Award 2" },
-      { src: "/assets/footer/3.svg", alt: "Award 3" },
-      { src: "/assets/footer/4.svg", alt: "Award 4" },
-      { src: "/assets/footer/5.svg", alt: "Award 5" },
+    
     ],
     clients: "Our Clients",
     careers: ["Fulltime", "Freelance"],
