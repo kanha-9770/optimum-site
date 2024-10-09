@@ -9,7 +9,6 @@ export const footerData = {
       { src: "/assets/footer/3.svg", alt: "Award 3" },
       { src: "/assets/footer/4.svg", alt: "Award 4" },
       { src: "/assets/footer/5.svg", alt: "Award 5" },
-      { src: "/assets/footer/6.svg", alt: "Award 6" },
     ],
     clients: "Our Clients",
     careers: ["Fulltime", "Freelance"],
